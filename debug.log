@@ -1,0 +1,4 @@
+[0531/123259.380:ERROR:http_transport_win.cc(50)] WinHttpSendRequest: 操作超时  (0x2EE2)
+[0604/124446.062:ERROR:http_transport_win.cc(50)] WinHttpSendRequest: 无法解析服务器的名称或地址  (0x2EE7)
+[0608/124018.376:ERROR:http_transport_win.cc(50)] WinHttpSendRequest: 操作超时  (0x2EE2)
+[0610/100248.412:ERROR:http_transport_win.cc(50)] WinHttpSendRequest: 与服务器的连接意外终止  (0x2EFE)
